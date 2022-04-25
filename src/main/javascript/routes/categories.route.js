@@ -20,7 +20,7 @@ router.get('/', (req, res) => {
         (row, pos) => Object.assign({
           id: pos + 1
         }, row, {
-          picture: `${rootUrl(req)}${row['picture']}`
+          picture: `${rootUrl(req)}${row.picture}`
         }))
     });
   });
@@ -37,7 +37,7 @@ router.get('/:category_id', (req, res) => {
       (row, pos) => Object.assign({
         id: pos + 1
       }, row, {
-        picture: `${rootUrl(req)}${row['picture']}`
+        picture: `${rootUrl(req)}${row.picture}`
       })
     ).find(
       itm => itm.id === Number(req.params.category_id)
@@ -65,7 +65,7 @@ router.get('/:category_id/foods', (req, res) => {
       (row, pos) => Object.assign({
         id: pos + 1
       }, row, {
-        picture: `${rootUrl(req)}${row['picture']}`
+        picture: `${rootUrl(req)}${row.picture}`
       })
     ).find(
       itm => itm.id === Number(req.params.category_id)
@@ -89,8 +89,11 @@ router.get('/:category_id/foods', (req, res) => {
               acc = acc.concat(curr);
               return acc;
             }, [])
-            .map(food => Object.assign(food, {
-              picture: `${rootUrl(req)}/assets/images/foods/${food['id']}.webp`
+            .map(food => Object.assign({}, {
+              id: Number(food.id),
+              title: food.title,
+              priceText: food.priceText,
+              picture: `${rootUrl(req)}/assets/images/foods/${food.id}.webp`
             }))
         });
       });
