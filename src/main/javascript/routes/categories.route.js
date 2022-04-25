@@ -12,7 +12,7 @@ router.get('/', (req, res) => {
   fs.readFile(jsonPath, 'utf-8', (err, data) => {
     if (err) {
       res.status(500).json({
-        error: 'no categories list'
+        error: 'No categories found.'
       });
     }
     res.status(200).json({
@@ -30,7 +30,7 @@ router.get('/:category_id', (req, res) => {
   fs.readFile(jsonPath, 'utf-8', (err, data) => {
     if (err) {
       res.status(500).json({
-        error: 'no categories to search'
+        error: 'No categories to search.'
       });
     }
     const singleCategory = JSON.parse(data).map(
@@ -44,7 +44,7 @@ router.get('/:category_id', (req, res) => {
     );
     if (!singleCategory) {
       res.status(500).json({
-        error: 'searched category does not exist'
+        error: 'Searched category does not exist.'
       });
     } else {
       res.status(200).json({
@@ -58,7 +58,7 @@ router.get('/:category_id/foods', (req, res) => {
   fs.readFile(jsonPath, 'utf-8', (err, data) => {
     if (err) {
       res.status(500).json({
-        error: 'no categories to search'
+        error: 'No categories to search.'
       });
     }
     const singleCategory = JSON.parse(data).map(
@@ -72,13 +72,13 @@ router.get('/:category_id/foods', (req, res) => {
     );
     if (!singleCategory) {
       res.status(500).json({
-        error: 'searched category does not exist'
+        error: 'Searched category does not exist.'
       });
     } else {
       fs.readFile(foodGroupsPath, 'utf-8', (err2, fg_data) => {
         if (err2) {
           res.status(500).json({
-            error: 'no foods found'
+            error: 'No foods found.'
           });
         }
         const foodsList = JSON.parse(fg_data);
