@@ -10,9 +10,18 @@ app.use(express.urlencoded({ extended:false }));
 app.use('/assets',express.static(path.join(process.cwd(),'src','main','assets')));
 app.use(express.static(path.join(process.cwd(),'src','main','assets','favicons')));
 
-app.get("/", (req, res) => {
+app.use((req, res, next) => {
+  res.append('Access-Control-Allow-Origin', ['*']);
+  res.append('Access-Control-Allow-Methods', 'GET');
+  res.append('Access-Control-Allow-Headers', 'Content-Type');
+  next();
+});
+
+app.get('/', (req, res) => {
   res.send("Hello world");
 });
+
+app.use('/api', require('./routes/api.route'));
 
 app.listen(PORT, () => {
   console.log(`Server is listening on port: ${PORT}`);

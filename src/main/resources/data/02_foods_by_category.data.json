@@ -1,0 +1,828 @@
+{
+  "GR002": [
+    {
+      "id": "11078",
+      "title": "Vaquero Callejero en combo",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, papa callejera, cebolla picada y salsas en pan perro + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $20,900",
+      "priceNumber": 20900
+    },
+    {
+      "id": "11145",
+      "title": "Pollo Cebollitas Crunchy en combo",
+      "description": "Hamburguesa de 154 g de pechuga de pollo en salsa BBQ, con cebolla crujiente, lechuga en julianas, salsa BBQ y salsa miel mostaza en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $21,900",
+      "priceNumber": 21900
+    },
+    {
+      "id": "10024",
+      "title": "Callejera en combo",
+      "description": "Hamburguesa de 125 g de carne 100% de res, queso mozzarella, papas callejera, salsa de tomate, salsa blanca y mostaza en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $22,900",
+      "priceNumber": 22900
+    },
+    {
+      "id": "10373",
+      "title": "Vaquero Callejero con bebida",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, papa callejera, cebolla picada y salsas en pan perro + gaseosa",
+      "priceText": "COP $17,000",
+      "priceNumber": 17000
+    },
+    {
+      "id": "10372",
+      "title": "Vaquero Callejero",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, papa callejera, cebolla picada y salsas en pan perro",
+      "priceText": "COP $15,000",
+      "priceNumber": 15000
+    },
+    {
+      "id": "11144",
+      "title": "Pollo Cebollitas Crunchy",
+      "description": "Hamburguesa de 154 g de pechuga de pollo en salsa BBQ, con cebolla crujiente, lechuga en julianas, salsa BBQ y salsa miel mostaza en pan ajonjolí",
+      "priceText": "COP $16,000",
+      "priceNumber": 16000
+    },
+    {
+      "id": "10030",
+      "title": "Callejera",
+      "description": "Hamburguesa de 125 g de carne 100% de res, queso mozzarella, papas callejera, salsa de tomate, salsa blanca y mostaza en pan ajonjolí",
+      "priceText": "COP $17,000",
+      "priceNumber": 17000
+    }
+  ],
+  "GR009": [
+    {
+      "id": "11154",
+      "title": "Todoterreno Clásica en combo",
+      "description": "Hamburguesa de dos carnes de 125 g cada una 100% de res a la parrilla con salsa BBQ, queso mozzarella, verduras y salsas en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $32,500",
+      "priceNumber": 32500
+    },
+    {
+      "id": "11155",
+      "title": "Todoterreno Mexicana en combo",
+      "description": "Hamburguesa de dos carnes de 125 g de carne 100% de res a la parrilla con salsa BBQ, queso mozzarella, guacamole, fríjol refrito, verduras y salsa blanca en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $33,500",
+      "priceNumber": 33500
+    },
+    {
+      "id": "10234",
+      "title": "Todoterreno Tocineta en combo",
+      "description": "Hamburguesa de dos carnes de 125 g cada una 100% de res a la parrilla con salsa BBQ, tocineta, queso mozzarella, pepinillos, verduras y salsas en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $34,500",
+      "priceNumber": 34500
+    },
+    {
+      "id": "11152",
+      "title": "Todoterreno Clásica",
+      "description": "Hamburguesa de dos carnes de 125 g cada una 100% de res a la parrilla con salsa BBQ, queso mozzarella, verduras y salsas en pan ajonjolí",
+      "priceText": "COP $26,600",
+      "priceNumber": 26600
+    },
+    {
+      "id": "11153",
+      "title": "Todoterreno Mexicana",
+      "description": "Hamburguesa de dos carnes de 125 g de carne 100% de res a la parrilla con salsa BBQ, queso mozzarella, guacamole, fríjol refrito, verduras y salsa blanca en pan ajonjolí",
+      "priceText": "COP $27,600",
+      "priceNumber": 27600
+    },
+    {
+      "id": "10037",
+      "title": "Todoterreno Tocineta",
+      "description": "Hamburguesa de dos carnes de 125 g cada una 100% de res a la parrilla con salsa BBQ, tocineta, queso mozzarella, pepinillos, verduras y salsas en pan ajonjolí",
+      "priceText": "COP $28,600",
+      "priceNumber": 28600
+    }
+  ],
+  "GR005": [
+    {
+      "id": "10036",
+      "title": "Casera en combo",
+      "description": "Hamburguesa de 165 g de carne 100% de res a la parrilla con salsa BBQ, queso americano, cebolla, tomate, lechuga y salsas en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $31,500",
+      "priceNumber": 31500
+    },
+    {
+      "id": "11124",
+      "title": "Corral VEK sencilla en combo",
+      "description": "Hamburguesa de 115 g de proteína de origen vegetal, cebolla, tomate y lechuga en julianas en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $31,500",
+      "priceNumber": 31500
+    },
+    {
+      "id": "11122",
+      "title": "Corral VEK en combo",
+      "description": "Hamburguesa de 115 g de proteína de origen vegetal, queso mozzarella, cebolla, tomate, lechuga en julianas y salsa blanca en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $32,500",
+      "priceNumber": 32500
+    },
+    {
+      "id": "10045",
+      "title": "Pollo Parrillero en combo",
+      "description": "Hamburguesa de 154 g de pechuga de pollo a la parrilla con salsa BBQ, tocineta, queso mozzarella, pepinillos, verduras y miel mostaza en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $32,500",
+      "priceNumber": 32500
+    },
+    {
+      "id": "10026",
+      "title": "Corralera en combo",
+      "description": "Hamburguesa de 165 g de carne 100% de res a la parrilla con salsa BBQ, tocineta, queso americano, cebolla grillé y salsas en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $33,500",
+      "priceNumber": 33500
+    },
+    {
+      "id": "10034",
+      "title": "Media libra en combo",
+      "description": "Hamburguesa de 1/2 libra de carne 100% de res a la parrilla con salsa BBQ, queso mozzarella, verduras y salsas en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $34,500",
+      "priceNumber": 34500
+    },
+    {
+      "id": "10040",
+      "title": "Casera",
+      "description": "Hamburguesa de 165 g de carne 100% de res a la parrilla con salsa BBQ, queso americano, cebolla, tomate, lechuga y salsas en pan ajonjolí",
+      "priceText": "COP $25,600",
+      "priceNumber": 25600
+    },
+    {
+      "id": "11123",
+      "title": "Corral VEK sencilla",
+      "description": "Hamburguesa de 115 g de proteína de origen vegetal, cebolla, tomate y lechuga en julianas en pan ajonjolí",
+      "priceText": "COP $25,600",
+      "priceNumber": 25600
+    },
+    {
+      "id": "11121",
+      "title": "Corral VEK",
+      "description": "Hamburguesa de 115 g de proteína de origen vegetal, queso mozzarella, cebolla, tomate, lechuga en julianas y salsa blanca en pan ajonjolí",
+      "priceText": "COP $26,600",
+      "priceNumber": 26600
+    },
+    {
+      "id": "10050",
+      "title": "Pollo Parrillero",
+      "description": "Hamburguesa de 154 g de pechuga de pollo a la parrilla con salsa BBQ, tocineta, queso mozzarella, pepinillos, verduras y miel mostaza en pan ajonjolí",
+      "priceText": "COP $26,600",
+      "priceNumber": 26600
+    },
+    {
+      "id": "10032",
+      "title": "Corralera",
+      "description": "Hamburguesa de 165 g de carne 100% de res a la parrilla con salsa BBQ, tocineta, queso americano, cebolla grillé y salsas en pan ajonjolí",
+      "priceText": "COP $27,600",
+      "priceNumber": 27600
+    },
+    {
+      "id": "10038",
+      "title": "Media libra",
+      "description": "Hamburguesa de 1/2 libra de carne 100% de res a la parrilla con salsa BBQ, queso mozzarella, verduras y salsas en pan ajonjolí",
+      "priceText": "COP $28,600",
+      "priceNumber": 28600
+    }
+  ],
+  "GR007": [
+    {
+      "id": "10051",
+      "title": "Corralita en combo",
+      "description": "Hamburguesa de 90 g de carne 100% de res, con verduras y salsas en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $22,500",
+      "priceNumber": 22500
+    },
+    {
+      "id": "10008",
+      "title": "Corral en combo",
+      "description": "Hamburguesa de 125 g de carne 100% de res, con verduras y salsas en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $23,500",
+      "priceNumber": 23500
+    },
+    {
+      "id": "10043",
+      "title": "Corral Pollo en combo",
+      "description": "Hamburguesa de 154 g de pechuga de pollo con salsa BBQ, verduras y salsa blanca en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $24,500",
+      "priceNumber": 24500
+    },
+    {
+      "id": "10009",
+      "title": "Corral Queso  en combo",
+      "description": "Hamburguesa de 125 g de carne 100% de res, con queso mozzarella, verduras y salsas en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $25,500",
+      "priceNumber": 25500
+    },
+    {
+      "id": "10938",
+      "title": "Corral Queso Tocineta en combo",
+      "description": "Hamburguesa de 125 g de carne 100% de res, con tocineta, queso mozzarella, verduras y salsas en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $28,500",
+      "priceNumber": 28500
+    },
+    {
+      "id": "10211",
+      "title": "Doble Doble en combo",
+      "description": "Hamburguesa de dos carnes de 90 g cada una 100% de res, queso mozzarella, cebolla caramelizada, tomate, lechuga y salsa blanca en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $28,500",
+      "priceNumber": 28500
+    },
+    {
+      "id": "10025",
+      "title": "Costeña en combo",
+      "description": "Hamburguesa de 125 g de carne 100% de res, queso costeño, chips de plátano, suero y salsa blanca en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $29,500",
+      "priceNumber": 29500
+    },
+    {
+      "id": "10023",
+      "title": "Hawaiana en combo",
+      "description": "Hamburguesa de 125 g de carne 100% de res, con queso mozzarella, piña, lechuga y salsas en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $29,500",
+      "priceNumber": 29500
+    },
+    {
+      "id": "10759",
+      "title": "Pollo Méxicano en combo",
+      "description": "Hamburguesa de 154 g de pechuga de pollo, guacamole, frijol refrito, tortillas de maiz, tomate, lechuga y salsa blanca en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $29,500",
+      "priceNumber": 29500
+    },
+    {
+      "id": "10027",
+      "title": "Criolla en combo",
+      "description": "Hamburguesa de 125 g de carne 100% de res, huevo frito, queso mozzarella, cebolla grillé, tomate, lechuga y salsas en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $30,500",
+      "priceNumber": 30500
+    },
+    {
+      "id": "10028",
+      "title": "Mexicana en combo",
+      "description": "Hamburguesa de 125 g de carne 100% de res, queso mozzarella, guacamole, fríjol refrito, verduras y salsa blanca en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $30,500",
+      "priceNumber": 30500
+    },
+    {
+      "id": "10236",
+      "title": "Philadelphia Steak en combo",
+      "description": "Hamburguesa de 154 g de lomo de res, con queso americano, cebolla grillé, salsa blanca y pimienta negra en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
+      "priceText": "COP $31,500",
+      "priceNumber": 31500
+    },
+    {
+      "id": "10175",
+      "title": "Corralita",
+      "description": "Hamburguesa de 90 g de carne 100% de res, con verduras y salsas en pan ajonjolí",
+      "priceText": "COP $16,600",
+      "priceNumber": 16600
+    },
+    {
+      "id": "10021",
+      "title": "Corral",
+      "description": "Hamburguesa de 125 g de carne 100% de res, con verduras y salsas en pan ajonjolí",
+      "priceText": "COP $17,600",
+      "priceNumber": 17600
+    },
+    {
+      "id": "10048",
+      "title": "Corral Pollo",
+      "description": "Hamburguesa de 154 g de pechuga de pollo con salsa BBQ, verduras y salsa blanca en pan ajonjolí",
+      "priceText": "COP $18,600",
+      "priceNumber": 18600
+    },
+    {
+      "id": "10006",
+      "title": "Corral Queso",
+      "description": "Hamburguesa de 125 g de carne 100% de res, con queso mozzarella, verduras y salsas en pan ajonjolí",
+      "priceText": "COP $19,600",
+      "priceNumber": 19600
+    },
+    {
+      "id": "10937",
+      "title": "Corral Queso Tocineta",
+      "description": "Hamburguesa de 125 g de carne 100% de res, con tocineta, queso mozzarella, verduras y salsas en pan ajonjolí",
+      "priceText": "COP $22,600",
+      "priceNumber": 22600
+    },
+    {
+      "id": "10155",
+      "title": "Doble Doble",
+      "description": "Hamburguesa de dos carnes de 90 g cada una 100% de res, queso mozzarella, cebolla caramelizada, tomate, lechuga y salsa blanca en pan ajonjolí",
+      "priceText": "COP $22,600",
+      "priceNumber": 22600
+    },
+    {
+      "id": "10031",
+      "title": "Costeña",
+      "description": "Hamburguesa de 125 g de carne 100% de res, queso costeño, chips de plátano, suero y salsa blanca en pan ajonjolí",
+      "priceText": "COP $23,600",
+      "priceNumber": 23600
+    },
+    {
+      "id": "10029",
+      "title": "Hawaiana",
+      "description": "Hamburguesa de 125 g de carne 100% de res, con queso mozzarella, piña, lechuga y salsas en pan ajonjolí",
+      "priceText": "COP $23,600",
+      "priceNumber": 23600
+    },
+    {
+      "id": "10758",
+      "title": "Pollo Méxicano",
+      "description": "Hamburguesa de 154 g de pechuga de pollo, guacamole, frijol refrito, tortillas de maiz, tomate, lechuga y salsa blanca en pan ajonjolí",
+      "priceText": "COP $23,600",
+      "priceNumber": 23600
+    },
+    {
+      "id": "10189",
+      "title": "Criolla",
+      "description": "Hamburguesa de 125 g de carne 100% de res, huevo frito, queso mozzarella, cebolla grillé, tomate, lechuga y salsas en pan ajonjolí",
+      "priceText": "COP $24,600",
+      "priceNumber": 24600
+    },
+    {
+      "id": "10167",
+      "title": "Mexicana",
+      "description": "Hamburguesa de 125 g de carne 100% de res, queso mozzarella, guacamole, fríjol refrito, verduras y salsa blanca en pan ajonjolí",
+      "priceText": "COP $24,600",
+      "priceNumber": 24600
+    },
+    {
+      "id": "10049",
+      "title": "Philadelphia Steak",
+      "description": "Hamburguesa de 154 g de lomo de res, con queso americano, cebolla grillé, salsa blanca y pimienta negra en pan ajonjolí",
+      "priceText": "COP $25,600",
+      "priceNumber": 25600
+    }
+  ],
+  "GR040": [
+    {
+      "id": "11093",
+      "title": "Combo para Parchar (Malteada 354 ml)",
+      "description": "Dos malteadas de 354 ml. y dos porciones de papas Corral agrandadas (puedes elegir el sabor de la malteada entre vainilla, chocolate y frutos rojos)",
+      "priceText": "COP $34,400",
+      "priceNumber": 34400
+    },
+    {
+      "id": "11094",
+      "title": "Combo para Parchar (Malteada 473 ml)",
+      "description": "Dos malteadas de 473 ml. y dos porciones de papas Corral agrandadas (puedes elegir el sabor de la malteada entre vainilla, chocolate y frutos rojos)",
+      "priceText": "COP $38,400",
+      "priceNumber": 38400
+    },
+    {
+      "id": "10974",
+      "title": "Combo para 2",
+      "description": "2 Hamburguesas Corral con 2 porciones de papas Corral agrandadas y 2 malteadas de 354 ml. (puedes elegir el sabor de la malteada entre vainilla, chocolate y frutos rojos)",
+      "priceText": "COP $62,400",
+      "priceNumber": 62400
+    },
+    {
+      "id": "10975",
+      "title": "Combo para 3",
+      "description": "1 Hamburguesa Corral Callejera más 1 hamburguesa Corralita más 1 hamburguesa Corral con 3 porciones de papas Corral agrandadas y 3 bebidas pet a elección",
+      "priceText": "COP $68,300",
+      "priceNumber": 68300
+    },
+    {
+      "id": "10976",
+      "title": "Combo para 4",
+      "description": "1 hamburguesa Callejera más 1 hamburguesa Corral Queso más 2 hamburguesas Corralitas con 4 porciones de papas Corral agrandadas y 4 bebidas pet a elección.",
+      "priceText": "COP $92,200",
+      "priceNumber": 92200
+    }
+  ],
+  "GR014": [
+    {
+      "id": "11157",
+      "title": "Vaquero Callejero con bebida",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, papa callejera, cebolla picada y salsas en pan perro + gaseosa",
+      "priceText": "COP $17,000",
+      "priceNumber": 17000
+    },
+    {
+      "id": "10443",
+      "title": "Queso + gaseosa",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, queso mozzarella, papa callejera, cebolla picada y salsas en pan perro + gaseosa",
+      "priceText": "COP $19,600",
+      "priceNumber": 19600
+    },
+    {
+      "id": "10445",
+      "title": "Hawaiano + gaseosa",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, queso mozzarella, papa callejera, piña y salsas en pan perro + gaseosa",
+      "priceText": "COP $21,600",
+      "priceNumber": 21600
+    },
+    {
+      "id": "10918",
+      "title": "Méxicano + gaseosa",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, guacamole, fríjol refrito, y tortillas de maíz en pan perro + gaseosa",
+      "priceText": "COP $23,600",
+      "priceNumber": 23600
+    },
+    {
+      "id": "10447",
+      "title": "Especial + gaseosa",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, queso mozzarella, tocineta, papa callejera y cebolla picada en pan perro + gaseosa",
+      "priceText": "COP $25,600",
+      "priceNumber": 25600
+    },
+    {
+      "id": "11158",
+      "title": "Vaquero Callejero en combo",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, papa callejera, cebolla picada y salsas en pan perro + papas medianas (Corral o en cascos) + bebida PET",
+      "priceText": "COP $20,900",
+      "priceNumber": 20900
+    },
+    {
+      "id": "11079",
+      "title": "Queso en combo",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, queso mozzarella, papa callejera, cebolla picada y salsas en pan perro + papas medianas (Corral o en cascos) + bebida PET",
+      "priceText": "COP $23,500",
+      "priceNumber": 23500
+    },
+    {
+      "id": "11080",
+      "title": "Hawaiano en combo",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, queso mozzarella, papa callejera, piña y salsas en pan perro + papas medianas (Corral o en cascos) + bebida PET",
+      "priceText": "COP $25,500",
+      "priceNumber": 25500
+    },
+    {
+      "id": "11082",
+      "title": "Méxicano en combo",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, guacamole, fríjol refrito, y tortillas de maíz en pan perro + papas medianas (Corral o en cascos) + bebida PET",
+      "priceText": "COP $27,500",
+      "priceNumber": 27500
+    },
+    {
+      "id": "11081",
+      "title": "Especial en combo",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, queso mozzarella, tocineta, papa callejera y cebolla picada en pan perro + papas medianas (Corral o en cascos) + bebida PET",
+      "priceText": "COP $29,500",
+      "priceNumber": 29500
+    },
+    {
+      "id": "11156",
+      "title": "Vaquero Callejero",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, papa callejera, cebolla picada y salsas en pan perro",
+      "priceText": "COP $15,000",
+      "priceNumber": 15000
+    },
+    {
+      "id": "10444",
+      "title": "Queso",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, queso mozzarella, papa callejera, cebolla picada y salsas en pan perro",
+      "priceText": "COP $17,600",
+      "priceNumber": 17600
+    },
+    {
+      "id": "10446",
+      "title": "Hawaiano",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, queso mozzarella, papa callejera, piña y salsas en pan perro",
+      "priceText": "COP $19,600",
+      "priceNumber": 19600
+    },
+    {
+      "id": "10917",
+      "title": "Méxicano",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, guacamole, fríjol refrito, y tortillas de maíz en pan perro",
+      "priceText": "COP $21,600",
+      "priceNumber": 21600
+    },
+    {
+      "id": "10448",
+      "title": "Especial",
+      "description": "Perro caliente con salchicha de 125 g a la parrilla, queso mozzarella, tocineta, papa callejera y cebolla picada en pan perro",
+      "priceText": "COP $23,600",
+      "priceNumber": 23600
+    }
+  ],
+  "GR016": [
+    {
+      "id": "11133",
+      "title": "Mexicana VEK + agua",
+      "description": "Ensalada con guacamole, frijol refrito, tortillas de maíz, tomate, maíz, lechuga y suero costeño + agua",
+      "priceText": "COP $20,500",
+      "priceNumber": 20500
+    },
+    {
+      "id": "10057",
+      "title": "Corral + agua",
+      "description": "Ensalada con 154 g de pechuga de pollo, huevo, jamón, queso mozzarella, queso parmesano, pepinillos, tomate, maíz, lechuga y aderezo + agua",
+      "priceText": "COP $26,500",
+      "priceNumber": 26500
+    },
+    {
+      "id": "11072",
+      "title": "Mexicana Lomo + agua",
+      "description": "Ensalada con 154 g de lomo de res, guacamole, frijol refrito, maíz, tomate, tortillas de maíz, lechuga y suero costeño + agua",
+      "priceText": "COP $27,500",
+      "priceNumber": 27500
+    },
+    {
+      "id": "10058",
+      "title": "Cobb + agua",
+      "description": "Ensalada con 154 g de pechuga de pollo, tocineta, huevo, jamón, queso mozzarella, aguacate, tomate, maíz, lechuga y aderezo + agua",
+      "priceText": "COP $28,500",
+      "priceNumber": 28500
+    },
+    {
+      "id": "11132",
+      "title": "Mexicana VEK en combo",
+      "description": "Ensalada con guacamole, frijol refrito, tortillas de maíz, tomate, maíz, lechuga y suero costeño + papas medianas (Corral o en cascos) + bebida PET",
+      "priceText": "COP $24,400",
+      "priceNumber": 24400
+    },
+    {
+      "id": "11077",
+      "title": "Corral en combo",
+      "description": "Ensalada con 154 g de pechuga de pollo, huevo, jamón, queso mozzarella, queso parmesano, pepinillos, tomate, maíz, lechuga y aderezo + papas medianas (Corral o en cascos) + bebida PET",
+      "priceText": "COP $30,400",
+      "priceNumber": 30400
+    },
+    {
+      "id": "11073",
+      "title": "Mexicana Lomo en combo",
+      "description": "Ensalada con 154 g de lomo de res, guacamole, frijol refrito, maíz, tomate, tortillas de maíz, lechuga y suero costeño + papas medianas (Corral o en cascos) + bebida PET",
+      "priceText": "COP $31,400",
+      "priceNumber": 31400
+    },
+    {
+      "id": "11076",
+      "title": "Cobb en combo",
+      "description": "Ensalada con 154 g de pechuga de pollo, tocineta, huevo, jamón, queso mozzarella, aguacate, tomate, maíz, lechuga y aderezo + papas medianas (Corral o en cascos) + bebida PET",
+      "priceText": "COP $32,400",
+      "priceNumber": 32400
+    },
+    {
+      "id": "11134",
+      "title": "Mexicana VEK",
+      "description": "Ensalada con guacamole, frijol refrito, tortillas de maíz, tomate, maíz, lechuga y suero costeño",
+      "priceText": "COP $18,500",
+      "priceNumber": 18500
+    },
+    {
+      "id": "10061",
+      "title": "Corral",
+      "description": "Ensalada con 154 g de pechuga de pollo, huevo, jamón, queso mozzarella, queso parmesano, pepinillos, tomate, maíz, lechuga y aderezo",
+      "priceText": "COP $24,500",
+      "priceNumber": 24500
+    },
+    {
+      "id": "11071",
+      "title": "Mexicana Lomo",
+      "description": "Ensalada con 154 g de lomo de res, guacamole, frijol refrito, maíz, tomate, tortillas de maíz, lechuga y suero costeño",
+      "priceText": "COP $25,500",
+      "priceNumber": 25500
+    },
+    {
+      "id": "10062",
+      "title": "Cobb",
+      "description": "Ensalada con 154 g de pechuga de pollo, tocineta, huevo, jamón, queso mozzarella, aguacate, tomate, maíz, lechuga y aderezo",
+      "priceText": "COP $26,500",
+      "priceNumber": 26500
+    }
+  ],
+  "GR012": [
+    {
+      "id": "10052",
+      "title": "Corralito Infantil Hamburguesa",
+      "description": "Hamburguesa de 90 g de carne 100% de res, con tomate, lechuga, y salsas, papas Corral medianas, bebida y vasito de helado",
+      "priceText": "COP $21,500",
+      "priceNumber": 21500
+    },
+    {
+      "id": "10757",
+      "title": "Corralito Infantil Lomo de pollo",
+      "description": "Tres lomos de pollo apanados, papas Corral medianas, bebida y vasito de helado",
+      "priceText": "COP $22,500",
+      "priceNumber": 22500
+    },
+    {
+      "id": "11149",
+      "title": "Corralito Infantil Filetes de pechuga",
+      "description": "Tres filetes de pechuga apanados, papas Corral medianas, bebida y vasito de helado",
+      "priceText": "COP $22,500",
+      "priceNumber": 22500
+    }
+  ],
+  "GR015": [
+    {
+      "id": "10053",
+      "title": "Wrap Pollo en combo",
+      "description": "Wrap de 154 g de pechuga de pollo con tomate, cebolla, lechuga y salsa blanca + papas medianas (Corral o en cascos) + bebida PET",
+      "priceText": "COP $24,500",
+      "priceNumber": 24500
+    },
+    {
+      "id": "10041",
+      "title": "Lomos de pollo x 4 en combo",
+      "description": "4 lomitos apanados acompañados de miel mostaza + papas medianas (Corral o en cascos) + bebida PET",
+      "priceText": "COP $25,500",
+      "priceNumber": 25500
+    },
+    {
+      "id": "10042",
+      "title": "Lomos de pollo x 6 en combo",
+      "description": "6 lomitos apanados acompañados de miel mostaza + papas medianas (Corral o en cascos) + bebida PET",
+      "priceText": "COP $29,500",
+      "priceNumber": 29500
+    },
+    {
+      "id": "11148",
+      "title": "Filetes de Pechuga x 5 en combo",
+      "description": "5 filetes de pechuga apanados acompañados + papas medianas (Corral o en cascos) + bebida PET",
+      "priceText": "COP $30,500",
+      "priceNumber": 30500
+    },
+    {
+      "id": "10055",
+      "title": "Wrap Pollo",
+      "description": "Wrap de 154 g de pechuga de pollo con tomate, cebolla, lechuga y salsa blanca",
+      "priceText": "COP $18,600",
+      "priceNumber": 18600
+    },
+    {
+      "id": "10046",
+      "title": "Lomos de pollo x 4",
+      "description": "4 lomitos apanados acompañados de miel mostaza",
+      "priceText": "COP $19,600",
+      "priceNumber": 19600
+    },
+    {
+      "id": "10047",
+      "title": "Lomos de pollo x 6",
+      "description": "6 lomitos apanados acompañados de miel mostaza",
+      "priceText": "COP $23,600",
+      "priceNumber": 23600
+    },
+    {
+      "id": "11147",
+      "title": "Filetes de Pechuga x 5",
+      "description": "5 filetes de pechuga apanados acompañados",
+      "priceText": "COP $24,600",
+      "priceNumber": 24600
+    }
+  ],
+  "GR004": [
+    {
+      "id": "10065",
+      "title": "Malteadas",
+      "description": "Sabores: Chocolate, Chocolate Light, Fresa, Vainilla, Macadamia, Café, Frutos del Bosque, Frutos del Bosque Light. La consistencia de este producto puede variar debido al tiempo de entrega.",
+      "priceText": "COP Personalizar",
+      "priceNumber": null
+    },
+    {
+      "id": "10066",
+      "title": "Brownie con Helado",
+      "description": "Brownie con cobertura de chocolate o arequipe. Acompañado de un vaso de helado.",
+      "priceText": "COP $10,900",
+      "priceNumber": 10900
+    },
+    {
+      "id": "10962",
+      "title": "Vaso de Helado",
+      "description": "Vaso de helado de 60 g del sabor que prefieras",
+      "priceText": "COP $4,500",
+      "priceNumber": 4500
+    }
+  ],
+  "GR018": [
+    {
+      "id": "10069",
+      "title": "Papas Corral",
+      "description": "Las papas más crocantes, para acompañar lo que más te gusta.",
+      "priceText": "COP Personalizar",
+      "priceNumber": null
+    },
+    {
+      "id": "10089",
+      "title": "Papas en Cascos",
+      "description": "Las papas en cascos más crocantes, para acompañar lo que más te gusta.",
+      "priceText": "COP Personalizar",
+      "priceNumber": null
+    },
+    {
+      "id": "10137",
+      "title": "Papas en Espiral",
+      "description": "Crocantes papas en espiral para que acompañes lo que prefieras.",
+      "priceText": "COP $7,500",
+      "priceNumber": 7500
+    },
+    {
+      "id": "10792",
+      "title": "Yucas sin suero",
+      "description": "Crocantes yucas para que acompañes lo que más te gusta",
+      "priceText": "COP $7,500",
+      "priceNumber": 7500
+    },
+    {
+      "id": "10070",
+      "title": "Yucas con suero",
+      "description": "Crocantes yucas acompañadas con suero costeño",
+      "priceText": "COP $9,000",
+      "priceNumber": 9000
+    },
+    {
+      "id": "10071",
+      "title": "Anillos de cebolla",
+      "description": "Crujientes anillos de cebolla apanados",
+      "priceText": "COP $9,000",
+      "priceNumber": 9000
+    }
+  ],
+  "GR039": [
+    {
+      "id": "10967",
+      "title": "Papa Callejera",
+      "description": "Papa Callejera",
+      "priceText": "COP $2,000",
+      "priceNumber": 2000
+    },
+    {
+      "id": "10968",
+      "title": "Cebolla Grille",
+      "description": "Cebolla Grille",
+      "priceText": "COP $2,500",
+      "priceNumber": 2500
+    },
+    {
+      "id": "10969",
+      "title": "Pepinillos",
+      "description": "Pepinillos",
+      "priceText": "COP $2,500",
+      "priceNumber": 2500
+    },
+    {
+      "id": "10972",
+      "title": "Suero Costeño",
+      "description": "Suero Costeño",
+      "priceText": "COP $3,000",
+      "priceNumber": 3000
+    },
+    {
+      "id": "11013",
+      "title": "Queso Fundido",
+      "description": "Queso Fundido",
+      "priceText": "COP $6,000",
+      "priceNumber": 6000
+    },
+    {
+      "id": "10970",
+      "title": "Frijol Refrito",
+      "description": "Frijol Refrito",
+      "priceText": "COP $4,500",
+      "priceNumber": 4500
+    },
+    {
+      "id": "10984",
+      "title": "Guacamole",
+      "description": "Guacamole",
+      "priceText": "COP $6,000",
+      "priceNumber": 6000
+    },
+    {
+      "id": "10973",
+      "title": "Tocineta picada",
+      "description": "Tocineta picada",
+      "priceText": "COP $6,000",
+      "priceNumber": 6000
+    }
+  ],
+  "GR046": [
+    {
+      "id": "11049",
+      "title": "Bonos Regalo",
+      "description": "Puedes adquirir tu bono-tarjeta regalo, que sirve como medio de pago en nuestros restaurantes y/o \"pago contra entrega\" para pedidos a domicilio.",
+      "priceText": "COP Personalizar",
+      "priceNumber": null
+    }
+  ],
+  "GR019": [
+    {
+      "id": "10072",
+      "title": "Gaseosa",
+      "description": "Gaseosa",
+      "priceText": "COP $5,000",
+      "priceNumber": 5000
+    },
+    {
+      "id": "10074",
+      "title": "H2Oh!",
+      "description": "H2Oh!",
+      "priceText": "COP $5,000",
+      "priceNumber": 5000
+    },
+    {
+      "id": "10075",
+      "title": "Agua Cristal",
+      "description": "Agua Cristal",
+      "priceText": "COP $5,000",
+      "priceNumber": 5000
+    },
+    {
+      "id": "10546",
+      "title": "Jugo Hit",
+      "description": "Jugo Hit",
+      "priceText": "COP $3,000",
+      "priceNumber": 3000
+    }
+  ]
+}
