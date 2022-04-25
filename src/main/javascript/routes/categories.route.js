@@ -7,7 +7,7 @@ const jsonPath = path.join(process.cwd(), 'src', 'main', 'json', 'food_categorie
 const foodGroupsPath = path.join(process.cwd(), 'src', 'main', 'json', 'foods_grouped_by_category.data.json');
 const rootUrl = (req) => `${req.protocol}://${req.get('Host')}`;
 
-/* defines home rout for displaying categories list */
+/* defines home route for displaying categories list */
 router.get('/', (req, res) => {
   fs.readFile(jsonPath, 'utf-8', (err, data) => {
     if (err) {
