@@ -12,7 +12,10 @@ router.get('/', (req, res) => {
       res.status(500).json({ error : 'no categories list' }); 
     }
     res.set('Content-Type','application/json');
-    res.status(200).json(JSON.parse(data).map((row,pos) => Object.assign({ id: pos+1, pictureUrl: `${rootUrl}${row['picture']}` }, row)));
+    res.status(200).json(
+      JSON.parse(data).map(
+        (row,pos) => Object.assign({ id: pos+1},row, {picture: `${rootUrl}${row['picture']}` }))
+    );
   });
 });
 
