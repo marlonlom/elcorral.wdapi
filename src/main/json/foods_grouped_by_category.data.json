@@ -1,13 +1,6 @@
 {
   "GR002": [
     {
-      "id": "11078",
-      "title": "Vaquero Callejero en combo",
-      "description": "Perro caliente con salchicha de 125 g a la parrilla, papa callejera, cebolla picada y salsas en pan perro + papas medianas (Corral o cascos) + bebida PET",
-      "priceText": "COP $20,900",
-      "priceNumber": 20900
-    },
-    {
       "id": "11145",
       "title": "Pollo Cebollitas Crunchy en combo",
       "description": "Hamburguesa de 154 g de pechuga de pollo en salsa BBQ, con cebolla crujiente, lechuga en julianas, salsa BBQ y salsa miel mostaza en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
@@ -20,20 +13,6 @@
       "description": "Hamburguesa de 125 g de carne 100% de res, queso mozzarella, papas callejera, salsa de tomate, salsa blanca y mostaza en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
       "priceText": "COP $22,900",
       "priceNumber": 22900
-    },
-    {
-      "id": "10373",
-      "title": "Vaquero Callejero con bebida",
-      "description": "Perro caliente con salchicha de 125 g a la parrilla, papa callejera, cebolla picada y salsas en pan perro + gaseosa",
-      "priceText": "COP $17,000",
-      "priceNumber": 17000
-    },
-    {
-      "id": "10372",
-      "title": "Vaquero Callejero",
-      "description": "Perro caliente con salchicha de 125 g a la parrilla, papa callejera, cebolla picada y salsas en pan perro",
-      "priceText": "COP $15,000",
-      "priceNumber": 15000
     },
     {
       "id": "11144",
@@ -497,84 +476,84 @@
   "GR016": [
     {
       "id": "11133",
-      "title": "Mexicana VEK + agua",
+      "title": "Ensalada Mexicana VEK + agua",
       "description": "Ensalada con guacamole, frijol refrito, tortillas de maíz, tomate, maíz, lechuga y suero costeño + agua",
       "priceText": "COP $20,500",
       "priceNumber": 20500
     },
     {
       "id": "10057",
-      "title": "Corral + agua",
+      "title": "Ensalada Corral + agua",
       "description": "Ensalada con 154 g de pechuga de pollo, huevo, jamón, queso mozzarella, queso parmesano, pepinillos, tomate, maíz, lechuga y aderezo + agua",
       "priceText": "COP $26,500",
       "priceNumber": 26500
     },
     {
       "id": "11072",
-      "title": "Mexicana Lomo + agua",
+      "title": "Ensalada Mexicana Lomo + agua",
       "description": "Ensalada con 154 g de lomo de res, guacamole, frijol refrito, maíz, tomate, tortillas de maíz, lechuga y suero costeño + agua",
       "priceText": "COP $27,500",
       "priceNumber": 27500
     },
     {
       "id": "10058",
-      "title": "Cobb + agua",
+      "title": "Ensalada Cobb + agua",
       "description": "Ensalada con 154 g de pechuga de pollo, tocineta, huevo, jamón, queso mozzarella, aguacate, tomate, maíz, lechuga y aderezo + agua",
       "priceText": "COP $28,500",
       "priceNumber": 28500
     },
     {
       "id": "11132",
-      "title": "Mexicana VEK en combo",
+      "title": "Ensalada Mexicana VEK en combo",
       "description": "Ensalada con guacamole, frijol refrito, tortillas de maíz, tomate, maíz, lechuga y suero costeño + papas medianas (Corral o en cascos) + bebida PET",
       "priceText": "COP $24,400",
       "priceNumber": 24400
     },
     {
       "id": "11077",
-      "title": "Corral en combo",
+      "title": "Ensalada Corral en combo",
       "description": "Ensalada con 154 g de pechuga de pollo, huevo, jamón, queso mozzarella, queso parmesano, pepinillos, tomate, maíz, lechuga y aderezo + papas medianas (Corral o en cascos) + bebida PET",
       "priceText": "COP $30,400",
       "priceNumber": 30400
     },
     {
       "id": "11073",
-      "title": "Mexicana Lomo en combo",
+      "title": "Ensalada Mexicana Lomo en combo",
       "description": "Ensalada con 154 g de lomo de res, guacamole, frijol refrito, maíz, tomate, tortillas de maíz, lechuga y suero costeño + papas medianas (Corral o en cascos) + bebida PET",
       "priceText": "COP $31,400",
       "priceNumber": 31400
     },
     {
       "id": "11076",
-      "title": "Cobb en combo",
+      "title": "Ensalada Cobb en combo",
       "description": "Ensalada con 154 g de pechuga de pollo, tocineta, huevo, jamón, queso mozzarella, aguacate, tomate, maíz, lechuga y aderezo + papas medianas (Corral o en cascos) + bebida PET",
       "priceText": "COP $32,400",
       "priceNumber": 32400
     },
     {
       "id": "11134",
-      "title": "Mexicana VEK",
+      "title": "Ensalada Mexicana VEK",
       "description": "Ensalada con guacamole, frijol refrito, tortillas de maíz, tomate, maíz, lechuga y suero costeño",
       "priceText": "COP $18,500",
       "priceNumber": 18500
     },
     {
       "id": "10061",
-      "title": "Corral",
+      "title": "Ensalada Corral",
       "description": "Ensalada con 154 g de pechuga de pollo, huevo, jamón, queso mozzarella, queso parmesano, pepinillos, tomate, maíz, lechuga y aderezo",
       "priceText": "COP $24,500",
       "priceNumber": 24500
     },
     {
       "id": "11071",
-      "title": "Mexicana Lomo",
+      "title": "Ensalada Mexicana Lomo",
       "description": "Ensalada con 154 g de lomo de res, guacamole, frijol refrito, maíz, tomate, tortillas de maíz, lechuga y suero costeño",
       "priceText": "COP $25,500",
       "priceNumber": 25500
     },
     {
       "id": "10062",
-      "title": "Cobb",
+      "title": "Ensalada Cobb",
       "description": "Ensalada con 154 g de pechuga de pollo, tocineta, huevo, jamón, queso mozzarella, aguacate, tomate, maíz, lechuga y aderezo",
       "priceText": "COP $26,500",
       "priceNumber": 26500
