@@ -23,12 +23,18 @@ router.get("/:food_id", (req, res) => {
         error: "No food data found.",
       });
     }
-    const foodItem = JSON.parse(data);
-    res.status(200).json({
-      result: Object.assign(foodItem, {
-        picture: `${rootUrl(req)}/assets/images/foods/${foodItem.id}.webp`,
-      }),
-    });
+    try{
+      const foodItem = JSON.parse(data);   
+      res.status(200).json({
+        result: Object.assign(foodItem, {
+         picture: `${rootUrl(req)}/assets/images/foods/${foodItem.id}.webp`
+        })
+      });
+    }catch(jsonErr){
+      res.status(500).json({
+        error: "No food data found.",
+        });
+    }
   });
 });
 
