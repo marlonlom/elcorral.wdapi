@@ -7,8 +7,18 @@
   "personalization": {
     "accompaniment": {
       "accompanimentOptions": [
-        { "code": "10079", "description": "Papa En Cascos Medianos $6000" },
-        { "code": "10775", "description": "Papa En Cascos Grandes $7500" }
+        {
+          "code": "10079",
+          "description": "Papa En Cascos Medianos $6000",
+          "priceText": "COP $6000",
+          "priceNumber": 6000
+        },
+        {
+          "code": "10775",
+          "description": "Papa En Cascos Grandes $7500",
+          "priceText": "COP $7500",
+          "priceNumber": 7500
+        }
       ],
       "sauces": [
         {

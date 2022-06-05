@@ -3,5 +3,50 @@
   "title": "Malteadas",
   "description": "Sabores: Chocolate, Chocolate Light, Fresa, Vainilla, Macadamia, Café, Frutos del Bosque, Frutos del Bosque Light. La consistencia de este producto puede variar debido al tiempo de entrega.",
   "priceText": null,
-  "priceNumber": null
+  "priceNumber": null,
+  "personalization": {
+    "beverage": {
+      "beverageOptions": [
+        {
+          "code": "10094",
+          "title": "Malteadas 354 ml.",
+          "description": "Malteada 354 ml. $10900",
+          "priceText": "COP $10900",
+          "priceNumber": 10900
+        },
+        {
+          "code": "10095",
+          "title": "Malteadas 473 ml.",
+          "description": "Malteada 473 ml. $12900",
+          "priceText": "COP $12900",
+          "priceNumber": 12900
+        }
+      ],
+      "drinkFlavors": [
+        {
+          "code": "10862",
+          "title": "Pepsi Light",
+          "description": "Pepsi Light $0"
+        },
+        { "code": "10864", "title": "Uva", "description": "Uva $0" },
+        {
+          "code": "10865",
+          "title": "Colombiana",
+          "description": "Colombiana $0"
+        },
+        { "code": "10860", "title": "Manzana", "description": "Manzana $0" },
+        { "code": "10861", "title": "Pepsi", "description": "Pepsi $0" },
+        {
+          "code": "10868",
+          "title": "Colombiana Ligera",
+          "description": "Colombiana Ligera $0"
+        },
+        {
+          "code": "10870",
+          "title": "Manzana Light",
+          "description": "Manzana Light $0"
+        }
+      ]
+    }
+  }
 }

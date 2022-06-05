@@ -4,11 +4,21 @@
   "description": "Las papas más crocantes, para acompañar lo que más te gusta.",
   "priceText": null,
   "priceNumber": null,
-  "personalization":{
+  "personalization": {
     "accompaniment": {
       "accompanimentOptions": [
-        { "code": "10087", "description": "Papas Corral $6000" },
-        { "code": "10088", "description": "Papas Corral Grandes $1500" }
+        {
+          "code": "10087",
+          "description": "Papas Corral $6000",
+          "priceText": "COP $6000",
+          "priceNumber": 6000
+        },
+        {
+          "code": "10088",
+          "description": "Papas Corral Grandes $7500",
+          "priceText": "COP $7500",
+          "priceNumber": 7500
+        }
       ],
       "sauces": [
         {
