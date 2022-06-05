@@ -3,5 +3,18 @@
   "title": "H2Oh!",
   "description": "H2Oh!",
   "priceText": "COP $5,000",
-  "priceNumber": 5000
+  "priceNumber": 5000,
+  "personalization": {
+    "beverage": {
+      "beverageOptions": [
+        {
+          "code": "10677",
+          "title": "Lima Limon",
+          "description": "Lima Limon $0"
+        },
+        { "code": "10678", "title": "Maracuya", "description": "Maracuya $0" },
+        { "code": "10793", "title": "Limonata", "description": "Limonata $0" }
+      ]
+    }
+  }
 }

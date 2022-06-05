@@ -3,5 +3,18 @@
   "title": "Jugo Hit",
   "description": "Jugo Hit",
   "priceText": "COP $3,000",
-  "priceNumber": 3000
+  "priceNumber": 3000,
+  "personalization": {
+    "beverage": {
+      "beverageOptions": [
+        { "code": "10667", "title": "Mora", "description": "Mora $0" },
+        { "code": "10670", "title": "Mango", "description": "Mango $0" },
+        {
+          "code": "10668",
+          "title": "Naranja Piña",
+          "description": "Naranja Piña $0"
+        }
+      ]
+    }
+  }
 }

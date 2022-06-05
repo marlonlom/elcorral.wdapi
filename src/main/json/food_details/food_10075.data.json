@@ -3,5 +3,21 @@
   "title": "Agua Cristal",
   "description": "Agua Cristal",
   "priceText": "COP $5,000",
-  "priceNumber": 5000
+  "priceNumber": 5000,
+  "personalization": {
+    "beverage": {
+      "beverageOptions": [
+        {
+          "code": "10092",
+          "title": "Agua Sin Gas",
+          "description": "Agua Sin Gas $0"
+        },
+        {
+          "code": "10093",
+          "title": "Agua Con Gas",
+          "description": "Agua Con Gas $0"
+        }
+      ]
+    }
+  }
 }
