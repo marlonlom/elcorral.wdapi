@@ -2,6 +2,47 @@
   "id": "10069",
   "title": "Papas Corral",
   "description": "Las papas más crocantes, para acompañar lo que más te gusta.",
-  "priceText": "COP Personalizar",
-  "priceNumber": null
+  "priceText": null,
+  "priceNumber": null,
+  "personalization":{
+    "accompaniment": {
+      "accompanimentOptions": [
+        { "code": "10087", "description": "Papas Corral $6000" },
+        { "code": "10088", "description": "Papas Corral Grandes $1500" }
+      ],
+      "sauces": [
+        {
+          "code": "10960",
+          "title": "Sin Salsa Adicional",
+          "description": "Sin Salsa Adicional $0"
+        },
+        {
+          "code": "10955",
+          "title": "Salsa De Tomate",
+          "description": "Salsa De Tomate $0"
+        },
+        {
+          "code": "10956",
+          "title": "Salsa Blanca",
+          "description": "Salsa Blanca $0"
+        },
+        {
+          "code": "10957",
+          "title": "Salsa Bbq",
+          "description": "Salsa Bbq $0"
+        },
+        {
+          "code": "10958",
+          "title": "Salsa Miel Mostaza",
+          "description": "Salsa Miel Mostaza $0"
+        },
+        {
+          "code": "10959",
+          "title": "Salsa Mostaza",
+          "description": "Salsa Mostaza $0"
+        }
+      ],
+      "saucesLimit": 3
+    }
+  }
 }

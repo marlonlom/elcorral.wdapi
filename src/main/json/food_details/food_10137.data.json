@@ -3,5 +3,42 @@
   "title": "Papas en Espiral",
   "description": "Crocantes papas en espiral para que acompañes lo que prefieras.",
   "priceText": "COP $7,500",
-  "priceNumber": 7500
+  "priceNumber": 7500,
+  "personalization": {
+    "accompaniment": {
+      "sauces": [
+        {
+          "code": "10960",
+          "title": "Sin Salsa Adicional",
+          "description": "Sin Salsa Adicional $0"
+        },
+        {
+          "code": "10955",
+          "title": "Salsa De Tomate",
+          "description": "Salsa De Tomate $0"
+        },
+        {
+          "code": "10956",
+          "title": "Salsa Blanca",
+          "description": "Salsa Blanca $0"
+        },
+        {
+          "code": "10957",
+          "title": "Salsa Bbq",
+          "description": "Salsa Bbq $0"
+        },
+        {
+          "code": "10958",
+          "title": "Salsa Miel Mostaza",
+          "description": "Salsa Miel Mostaza $0"
+        },
+        {
+          "code": "10959",
+          "title": "Salsa Mostaza",
+          "description": "Salsa Mostaza $0"
+        }
+      ],
+      "saucesLimit": 3
+    }
+  }
 }

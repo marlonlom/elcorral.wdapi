@@ -3,5 +3,42 @@
   "title": "Yucas con suero",
   "description": "Crocantes yucas acompañadas con suero costeño",
   "priceText": "COP $9,000",
-  "priceNumber": 9000
+  "priceNumber": 9000,
+  "personalization": {
+    "accompaniment": {
+      "sauces": [
+        {
+          "code": "10960",
+          "title": "Sin Salsa Adicional",
+          "description": "Sin Salsa Adicional $0"
+        },
+        {
+          "code": "10955",
+          "title": "Salsa De Tomate",
+          "description": "Salsa De Tomate $0"
+        },
+        {
+          "code": "10956",
+          "title": "Salsa Blanca",
+          "description": "Salsa Blanca $0"
+        },
+        {
+          "code": "10957",
+          "title": "Salsa Bbq",
+          "description": "Salsa Bbq $0"
+        },
+        {
+          "code": "10958",
+          "title": "Salsa Miel Mostaza",
+          "description": "Salsa Miel Mostaza $0"
+        },
+        {
+          "code": "10959",
+          "title": "Salsa Mostaza",
+          "description": "Salsa Mostaza $0"
+        }
+      ],
+      "saucesLimit": 3
+    }
+  }
 }
