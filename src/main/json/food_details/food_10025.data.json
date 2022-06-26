@@ -3,5 +3,166 @@
   "title": "Costeña en combo",
   "description": "Hamburguesa de 125 g de carne 100% de res, queso costeño, chips de plátano, suero y salsa blanca en pan ajonjolí + papas medianas (Corral o cascos) + bebida PET",
   "priceText": "COP $29,500",
-  "priceNumber": 29500
+  "priceNumber": 29500,
+  "personalization": {
+    "modifications": [
+      "Sin Queso Costeño",
+      "Sin Suero Costeño",
+      "Sin Salsa Blanca",
+      "Sin Platanitos Verdes"
+    ],
+    "toppingsLimit": 7,
+    "toppings": [
+      {
+        "code": "10084",
+        "title": "+Queso Mozzarella",
+        "priceNumber": 2500,
+        "description": "+Queso Mozzarella $2500"
+      },
+      {
+        "code": "10421",
+        "title": "+Piña",
+        "priceNumber": 2500,
+        "description": "+Piña $2500"
+      },
+      {
+        "code": "10425",
+        "title": "+Guacamole",
+        "priceNumber": 6000,
+        "description": "+Guacamole $6000"
+      },
+      {
+        "code": "10426",
+        "title": "+Tocineta picada",
+        "priceNumber": 6000,
+        "description": "+Tocineta picada $6000"
+      },
+      {
+        "code": "10455",
+        "title": "+Pollo",
+        "priceNumber": 8000,
+        "description": "+Pollo $8000"
+      },
+      {
+        "code": "10467",
+        "title": "+Suero Costeño",
+        "priceNumber": 3000,
+        "description": "+Suero Costeño $3000"
+      },
+      {
+        "code": "10423",
+        "title": "+Pepinillos",
+        "priceNumber": 2500,
+        "description": "+Pepinillos $2500"
+      },
+      {
+        "code": "10424",
+        "title": "+Frijol Refrito",
+        "priceNumber": 4500,
+        "description": "+Frijol Refrito $4500"
+      },
+      {
+        "code": "10158",
+        "title": "+Queso Fundido",
+        "priceNumber": 6000,
+        "description": "+Queso Fundido $6000"
+      },
+      {
+        "code": "10163",
+        "title": "+Cebolla Grillé",
+        "priceNumber": 2500,
+        "description": "+Cebolla Grillé $2500"
+      }
+    ],
+    "accompaniment": {
+      "accompanimentOptions": [
+        { "code": "10087", "description": "+ Papas Corral $0" },
+        { "code": "10088", "description": "+ Papas Corral Grandes $1500" },
+        { "code": "10079", "description": "+ Papa En Cascos Medianos $0" },
+        { "code": "10775", "description": "+ Papa En Cascos Grandes $1500" },
+        { "code": "10796", "description": "+ Yucas Sin Suero $1500" },
+        { "code": "10077", "description": "+ Yucas Con Suero $3000" },
+        { "code": "10797", "description": "+ Papa Espiral $1500" }
+      ],
+      "sauces": [
+        {
+          "code": "10960",
+          "title": "Sin Salsa Adicional",
+          "description": "Sin Salsa Adicional $0"
+        },
+        {
+          "code": "10955",
+          "title": "Salsa De Tomate",
+          "description": "Salsa De Tomate $0"
+        },
+        {
+          "code": "10956",
+          "title": "Salsa Blanca",
+          "description": "Salsa Blanca $0"
+        },
+        {
+          "code": "10957",
+          "title": "Salsa Bbq",
+          "description": "Salsa Bbq $0"
+        },
+        {
+          "code": "10958",
+          "title": "Salsa Miel Mostaza",
+          "description": "Salsa Miel Mostaza $0"
+        },
+        {
+          "code": "10959",
+          "title": "Salsa Mostaza",
+          "description": "Salsa Mostaza $0"
+        }
+      ],
+      "saucesLimit": 3
+    },
+    "beverage": {
+      "beverageOptions": [
+        { "code": "10899", "title": "Gaseosa", "description": "Gaseosa" },
+        {
+          "code": "10777",
+          "title": "Agua Cristal",
+          "description": "Agua Cristal"
+        },
+        { "code": "10780", "title": "Agua H2Oh!", "description": "Agua H2Oh!" },
+        {
+          "code": "10771",
+          "title": "Malteadas 354 ml.",
+          "description": "Malteadas 354 ml."
+        },
+        {
+          "code": "10791",
+          "title": "Malteadas 473 ml.",
+          "description": "Malteadas 473 ml."
+        }
+      ],
+      "drinkFlavors": [
+        {
+          "code": "10862",
+          "title": "Pepsi Light",
+          "description": "Pepsi Light $0"
+        },
+        { "code": "10864", "title": "Uva", "description": "Uva $0" },
+        {
+          "code": "10865",
+          "title": "Colombiana",
+          "description": "Colombiana $0"
+        },
+        { "code": "10860", "title": "Manzana", "description": "Manzana $0" },
+        { "code": "10861", "title": "Pepsi", "description": "Pepsi $0" },
+        {
+          "code": "10868",
+          "title": "Colombiana Ligera",
+          "description": "Colombiana Ligera $0"
+        },
+        {
+          "code": "10870",
+          "title": "Manzana Light",
+          "description": "Manzana Light $0"
+        }
+      ]
+    }
+  }
 }
