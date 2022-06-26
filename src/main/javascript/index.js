@@ -23,6 +23,15 @@ app.get('/', (req, res) => {
 
 app.use('/api', require('./routes/api.route'));
 
+/* handle the overall error generated within code */
+app.use((error, req, res) => {
+  if (error) {
+    res.status(error.status || 500).json({
+      error: error.message,
+    });
+  }
+});
+
 app.listen(PORT, () => {
   console.log(`Server is listening on port: ${PORT}`);
 });
