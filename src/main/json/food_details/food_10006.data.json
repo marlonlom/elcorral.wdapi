@@ -3,5 +3,80 @@
   "title": "Corral Queso",
   "description": "Hamburguesa de 125 g de carne 100% de res, con queso mozzarella, verduras y salsas en pan ajonjolí",
   "priceText": "COP $19,600",
-  "priceNumber": 19600
+  "priceNumber": 19600,
+  "personalization": {
+    "modifications": [
+      "Sin Tomate",
+      "Sin Lechuga",
+      "Sin Cebolla",
+      "Sin Mostaza",
+      "Sin Salsa De Tomate",
+      "Sin Salsa Blanca"
+    ],
+    "toppingsLimit": 7,
+    "toppings": [
+      {
+        "code": "10084",
+        "title": "+Queso Mozzarella",
+        "priceNumber": 2500,
+        "description": "+Queso Mozzarella $2500"
+      },
+      {
+        "code": "10421",
+        "title": "+Piña",
+        "priceNumber": 2500,
+        "description": "+Piña $2500"
+      },
+      {
+        "code": "10425",
+        "title": "+Guacamole",
+        "priceNumber": 6000,
+        "description": "+Guacamole $6000"
+      },
+      {
+        "code": "10426",
+        "title": "+Tocineta picada",
+        "priceNumber": 6000,
+        "description": "+Tocineta picada $6000"
+      },
+      {
+        "code": "10455",
+        "title": "+Pollo",
+        "priceNumber": 8000,
+        "description": "+Pollo $8000"
+      },
+      {
+        "code": "10467",
+        "title": "+Suero Costeño",
+        "priceNumber": 3000,
+        "description": "+Suero Costeño $3000"
+      },
+      {
+        "code": "10423",
+        "title": "+Pepinillos",
+        "priceNumber": 2500,
+        "description": "+Pepinillos $2500"
+      },
+      {
+        "code": "10424",
+        "title": "+Frijol Refrito",
+        "priceNumber": 4500,
+        "description": "+Frijol Refrito $4500"
+      },
+      {
+        "code": "10158",
+        "title": "+Queso Fundido",
+        "priceNumber": 6000,
+        "description": "+Queso Fundido $6000"
+      },
+      {
+        "code": "10163",
+        "title": "+Cebolla Grillé",
+        "priceNumber": 2500,
+        "description": "+Cebolla Grillé $2500"
+      }
+    ],
+    "accompaniment": null,
+    "beverage": null
+  }
 }

@@ -3,5 +3,24 @@
   "title": "Corral Pollo",
   "description": "Hamburguesa de 154 g de pechuga de pollo con salsa BBQ, verduras y salsa blanca en pan ajonjolí",
   "priceText": "COP $18,600",
-  "priceNumber": 18600
+  "priceNumber": 18600,
+  "personalization": {
+    "modifications": [
+      "Sin Tomate",
+      "Sin Lechuga",
+      "Sin Cebolla",
+      "Sin Salsa Blanca"
+    ],
+    "toppingsLimit": 7,
+    "toppings": [
+      {
+        "code": "10163",
+        "title": "+Cebolla Grillé",
+        "priceNumber": 2500,
+        "description": "+Cebolla Grillé $2500"
+      }
+    ],
+    "accompaniment": null,
+    "beverage": null
+  }
 }
