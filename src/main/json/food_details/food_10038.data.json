@@ -3,5 +3,12 @@
   "title": "Media libra",
   "description": "Hamburguesa de 1/2 libra de carne 100% de res a la parrilla con salsa BBQ, queso mozzarella, verduras y salsas en pan ajonjolí",
   "priceText": "COP $28,600",
-  "priceNumber": 28600
+  "priceNumber": 28600,
+  "personalization": {
+    "modifications": ["Sin Tomate", "Sin Lechuga", "Sin Cebolla"],
+    "toppingsLimit": 7,
+    "toppings": [],
+    "accompaniment": null,
+    "beverage": null
+  }
 }
