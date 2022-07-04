@@ -3,5 +3,161 @@
   "title": "Combo para 4",
   "description": "1 hamburguesa Callejera más 1 hamburguesa Corral Queso más 2 hamburguesas Corralitas con 4 porciones de papas Corral agrandadas y 4 bebidas pet a elección.",
   "priceText": "COP $92,200",
-  "priceNumber": 92200
+  "priceNumber": 92200,
+  "personalizations": [
+    {
+      "modifications": [
+        "Sin Tomate",
+        "Sin Lechuga",
+        "Sin Cebolla",
+        "Sin Salsa De Tomate",
+        "Sin Salsa Blanca"
+      ],
+      "accompaniment": {
+        "accompanimentOptions": [
+          { "code": "10998", "description": "+ Papas Corral Agrandadas $0" }
+        ],
+        "sauces": [
+          { "code": "10960", "description": "Sin Salsa Adicional $0" },
+          { "code": "10955", "description": "Salsa De Tomate $0" },
+          { "code": "10956", "description": "Salsa Blanca $0" },
+          { "code": "10957", "description": "Salsa Bbq $0" },
+          { "code": "10958", "description": "Salsa Miel Mostaza $0" },
+          { "code": "10959", "description": "Salsa Mostaza $0" }
+        ],
+        "saucesLimit": 3
+      },
+      "beverage": {
+        "beverageOptions": [
+          { "code": "11003", "description": "Gaseosa" },
+          { "code": "11009", "description": "Agua H2Oh!" },
+          { "code": "11010", "description": "Agua Cristal" }
+        ],
+        "drinkFlavors": [
+          { "code": "11025", "description": "Pepsi Light $0" },
+          { "code": "11027", "description": "Uva $0" },
+          { "code": "11028", "description": "Colombiana $0" },
+          { "code": "11023", "description": "Manzana $0" },
+          { "code": "11024", "description": "Pepsi $0" },
+          { "code": "11031", "description": "Colombiana Ligera $0" }
+        ]
+      }
+    },
+    {
+      "modifications": [
+        "Sin Tomate",
+        "Sin Lechuga",
+        "Sin Cebolla",
+        "Sin Salsa De Tomate",
+        "Sin Salsa Blanca"
+      ],
+      "accompaniment": {
+        "accompanimentOptions": [
+          { "code": "10998", "description": "+ Papas Corral Agrandadas $0" }
+        ],
+        "sauces": [
+          { "code": "10960", "description": "Sin Salsa Adicional $0" },
+          { "code": "10955", "description": "Salsa De Tomate $0" },
+          { "code": "10956", "description": "Salsa Blanca $0" },
+          { "code": "10957", "description": "Salsa Bbq $0" },
+          { "code": "10958", "description": "Salsa Miel Mostaza $0" },
+          { "code": "10959", "description": "Salsa Mostaza $0" }
+        ],
+        "saucesLimit": 3
+      },
+      "beverage": {
+        "beverageOptions": [
+          { "code": "11003", "description": "Gaseosa" },
+          { "code": "11009", "description": "Agua H2Oh!" },
+          { "code": "11010", "description": "Agua Cristal" }
+        ],
+        "drinkFlavors": [
+          { "code": "11025", "description": "Pepsi Light $0" },
+          { "code": "11027", "description": "Uva $0" },
+          { "code": "11028", "description": "Colombiana $0" },
+          { "code": "11023", "description": "Manzana $0" },
+          { "code": "11024", "description": "Pepsi $0" },
+          { "code": "11031", "description": "Colombiana Ligera $0" }
+        ]
+      }
+    },
+    {
+      "modifications": [
+        "Sin Tomate",
+        "Sin Lechuga",
+        "Sin Cebolla",
+        "Sin Mostaza",
+        "Sin Salsa De Tomate",
+        "Sin Salsa Blanca"
+      ],
+      "accompaniment": {
+        "accompanimentOptions": [
+          { "code": "10998", "description": "+ Papas Corral Agrandadas $0" }
+        ],
+        "sauces": [
+          { "code": "10960", "description": "Sin Salsa Adicional $0" },
+          { "code": "10955", "description": "Salsa De Tomate $0" },
+          { "code": "10956", "description": "Salsa Blanca $0" },
+          { "code": "10957", "description": "Salsa Bbq $0" },
+          { "code": "10958", "description": "Salsa Miel Mostaza $0" },
+          { "code": "10959", "description": "Salsa Mostaza $0" }
+        ],
+        "saucesLimit": 3
+      },
+      "beverage": {
+        "beverageOptions": [
+          { "code": "11003", "description": "Gaseosa" },
+          { "code": "11009", "description": "Agua H2Oh!" },
+          { "code": "11010", "description": "Agua Cristal" }
+        ],
+        "drinkFlavors": [
+          { "code": "11025", "description": "Pepsi Light $0" },
+          { "code": "11027", "description": "Uva $0" },
+          { "code": "11028", "description": "Colombiana $0" },
+          { "code": "11023", "description": "Manzana $0" },
+          { "code": "11024", "description": "Pepsi $0" },
+          { "code": "11031", "description": "Colombiana Ligera $0" },
+          { "code": "11033", "description": "Manzana Light $0" }
+        ]
+      }
+    },
+    {
+      "modifications": [
+        "Sin Queso Mozzarella",
+        "Sin Mostaza",
+        "Sin Salsa De Tomate",
+        "Sin Salsa Blanca"
+      ],
+      "accompaniment": {
+        "accompanimentOptions": [
+          { "code": "10998", "description": "+ Papas Corral Agrandadas $0" }
+        ],
+        "sauces": [
+          { "code": "10960", "description": "Sin Salsa Adicional $0" },
+          { "code": "10955", "description": "Salsa De Tomate $0" },
+          { "code": "10956", "description": "Salsa Blanca $0" },
+          { "code": "10957", "description": "Salsa Bbq $0" },
+          { "code": "10958", "description": "Salsa Miel Mostaza $0" },
+          { "code": "10959", "description": "Salsa Mostaza $0" }
+        ],
+        "saucesLimit": 3
+      },
+      "beverage": {
+        "beverageOptions": [
+          { "code": "11003", "description": "Gaseosa" },
+          { "code": "11009", "description": "Agua H2Oh!" },
+          { "code": "11010", "description": "Agua Cristal" }
+        ],
+        "drinkFlavors": [
+          { "code": "11025", "description": "Pepsi Light $0" },
+          { "code": "11027", "description": "Uva $0" },
+          { "code": "11028", "description": "Colombiana $0" },
+          { "code": "11023", "description": "Manzana $0" },
+          { "code": "11024", "description": "Pepsi $0" },
+          { "code": "11031", "description": "Colombiana Ligera $0" },
+          { "code": "11033", "description": "Manzana Light $0" }
+        ]
+      }
+    }
+  ]
 }

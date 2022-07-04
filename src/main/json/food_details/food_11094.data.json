@@ -3,5 +3,61 @@
   "title": "Combo para Parchar (Malteada 473 ml)",
   "description": "Dos malteadas de 473 ml. y dos porciones de papas Corral agrandadas (puedes elegir el sabor de la malteada entre vainilla, chocolate y frutos rojos)",
   "priceText": "COP $38,400",
-  "priceNumber": 38400
+  "priceNumber": 38400,
+  "personalizations": [
+    {
+      "modifications": [],
+      "accompaniment": {
+        "accompanimentOptions": [
+          { "code": "10998", "description": "+ Papas Corral Agrandadas $0" }
+        ],
+        "sauces": [
+          { "code": "10960", "description": "Sin Salsa Adicional $0" },
+          { "code": "10955", "description": "Salsa De Tomate $0" },
+          { "code": "10956", "description": "Salsa Blanca $0" },
+          { "code": "10957", "description": "Salsa Bbq $0" },
+          { "code": "10958", "description": "Salsa Miel Mostaza $0" },
+          { "code": "10959", "description": "Salsa Mostaza $0" }
+        ],
+        "saucesLimit": 3
+      },
+      "beverage": {
+        "beverageOptions": [
+          { "code": "11103", "description": "Malteadas 473 ml." }
+        ],
+        "drinkFlavors": [
+          { "code": "11098", "description": "Chocolate $0" },
+          { "code": "11100", "description": "Frutos Del Bosque $0" },
+          { "code": "11102", "description": "Vainilla $0" }
+        ]
+      }
+    },
+    {
+      "modifications": [],
+      "accompaniment": {
+        "accompanimentOptions": [
+          { "code": "10998", "description": "+ Papas Corral Agrandadas $0" }
+        ],
+        "sauces": [
+          { "code": "10960", "description": "Sin Salsa Adicional $0" },
+          { "code": "10955", "description": "Salsa De Tomate $0" },
+          { "code": "10956", "description": "Salsa Blanca $0" },
+          { "code": "10957", "description": "Salsa Bbq $0" },
+          { "code": "10958", "description": "Salsa Miel Mostaza $0" },
+          { "code": "10959", "description": "Salsa Mostaza $0" }
+        ],
+        "saucesLimit": 3
+      },
+      "beverage": {
+        "beverageOptions": [
+          { "code": "11103", "description": "Malteadas 473 ml." }
+        ],
+        "drinkFlavors": [
+          { "code": "11098", "description": "Chocolate $0" },
+          { "code": "11100", "description": "Frutos Del Bosque $0" },
+          { "code": "11102", "description": "Vainilla $0" }
+        ]
+      }
+    }
+  ]
 }

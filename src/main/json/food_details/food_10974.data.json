@@ -3,5 +3,75 @@
   "title": "Combo para 2",
   "description": "2 Hamburguesas Corral con 2 porciones de papas Corral agrandadas y 2 malteadas de 354 ml. (puedes elegir el sabor de la malteada entre vainilla, chocolate y frutos rojos)",
   "priceText": "COP $62,400",
-  "priceNumber": 62400
+  "priceNumber": 62400,
+  "personalizations": [
+    {
+      "modifications": [
+        "Sin Tomate",
+        "Sin Lechuga",
+        "Sin Cebolla",
+        "Sin Mostaza",
+        "Sin Salsa De Tomate",
+        "Sin Salsa Blanca"
+      ],
+      "accompaniment": {
+        "accompanimentOptions": [
+          { "code": "10998", "description": "+ Papas Corral Agrandadas $0" }
+        ],
+        "sauces": [
+          { "code": "10960", "description": "Sin Salsa Adicional $0" },
+          { "code": "10955", "description": "Salsa De Tomate $0" },
+          { "code": "10956", "description": "Salsa Blanca $0" },
+          { "code": "10957", "description": "Salsa Bbq $0" },
+          { "code": "10958", "description": "Salsa Miel Mostaza $0" },
+          { "code": "10959", "description": "Salsa Mostaza $0" }
+        ],
+        "saucesLimit": 3
+      },
+      "beverage": {
+        "beverageOptions": [
+          { "code": "11002", "description": "Malteadas 354 ml." }
+        ],
+        "drinkFlavors": [
+          { "code": "11004", "description": "Chocolate $0" },
+          { "code": "11006", "description": "Frutos Del Bosque $0" },
+          { "code": "11008", "description": "Vainilla $0" }
+        ]
+      }
+    },
+    {
+      "modifications": [
+        "Sin Tomate",
+        "Sin Lechuga",
+        "Sin Cebolla",
+        "Sin Mostaza",
+        "Sin Salsa De Tomate",
+        "Sin Salsa Blanca"
+      ],
+      "accompaniment": {
+        "accompanimentOptions": [
+          { "code": "10998", "description": "+ Papas Corral Agrandadas $0" }
+        ],
+        "sauces": [
+          { "code": "10960", "description": "Sin Salsa Adicional $0" },
+          { "code": "10955", "description": "Salsa De Tomate $0" },
+          { "code": "10956", "description": "Salsa Blanca $0" },
+          { "code": "10957", "description": "Salsa Bbq $0" },
+          { "code": "10958", "description": "Salsa Miel Mostaza $0" },
+          { "code": "10959", "description": "Salsa Mostaza $0" }
+        ],
+        "saucesLimit": 3
+      },
+      "beverage": {
+        "beverageOptions": [
+          { "code": "11002", "description": "Malteadas 354 ml." }
+        ],
+        "drinkFlavors": [
+          { "code": "11004", "description": "Chocolate $0" },
+          { "code": "11006", "description": "Frutos Del Bosque $0" },
+          { "code": "11008", "description": "Vainilla $0" }
+        ]
+      }
+    }
+  ]
 }
