@@ -3,5 +3,86 @@
   "title": "Méxicano + gaseosa",
   "description": "Perro caliente con salchicha de 125 g a la parrilla, guacamole, fríjol refrito, y tortillas de maíz en pan perro + gaseosa",
   "priceText": "COP $23,600",
-  "priceNumber": 23600
+  "priceNumber": 23600,
+  "personalization": {
+    "modifications": [],
+    "toppingsLimit": 7,
+    "toppings": [
+      {
+        "code": "10084",
+        "title": "+Queso Mozzarella",
+        "priceNumber": 2500,
+        "description": "+Queso Mozzarella $2500"
+      },
+      {
+        "code": "10421",
+        "title": "+Piña",
+        "priceNumber": 2500,
+        "description": "+Piña $2500"
+      },
+      {
+        "code": "10425",
+        "title": "+Guacamole",
+        "priceNumber": 6000,
+        "description": "+Guacamole $6000"
+      },
+      {
+        "code": "10426",
+        "title": "+Tocineta picada",
+        "priceNumber": 6000,
+        "description": "+Tocineta picada $6000"
+      },
+      {
+        "code": "10455",
+        "title": "+Pollo",
+        "priceNumber": 8000,
+        "description": "+Pollo $8000"
+      },
+      {
+        "code": "10467",
+        "title": "+Suero Costeño",
+        "priceNumber": 3000,
+        "description": "+Suero Costeño $3000"
+      },
+      {
+        "code": "10423",
+        "title": "+Pepinillos",
+        "priceNumber": 2500,
+        "description": "+Pepinillos $2500"
+      },
+      {
+        "code": "10424",
+        "title": "+Frijol Refrito",
+        "priceNumber": 4500,
+        "description": "+Frijol Refrito $4500"
+      },
+      {
+        "code": "10158",
+        "title": "+Queso Fundido",
+        "priceNumber": 6000,
+        "description": "+Queso Fundido $6000"
+      },
+      {
+        "code": "10163",
+        "title": "+Cebolla Grillé",
+        "priceNumber": 2500,
+        "description": "+Cebolla Grillé $2500"
+      }
+    ],
+    "accompaniment": null,
+    "beverage": {
+      "beverageOptions": [
+        { "code": "10905", "title": "Gaseosa", "description": "Gaseosa" }
+      ],
+      "drinkFlavors": [
+        {
+          "code": "10910",
+          "title": "Colombiana",
+          "description": "Colombiana $0"
+        },
+        { "code": "10906", "title": "Manzana", "description": "Manzana $0" },
+        { "code": "10907", "title": "Pepsi", "description": "Pepsi $0" }
+      ]
+    }
+  }
 }
